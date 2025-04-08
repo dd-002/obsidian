@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "48ea679a72f1adbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "706151116fcef5c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc965ffc679b29c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE778/Creating Python Virtual Environment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Creating Python Virtual Environment"
+            }
+          },
+          {
+            "id": "b5885fdc55df39dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Remote Sensing/6. Synthetic Aperture Radar Systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Synthetic Aperture Radar Systems"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "407804a173527855",
+    "type": "split",
+    "children": [
+      {
+        "id": "706302d3af0f1464",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c34df036ef6f1fdf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1a083a1c9139f23a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b2d9124f1784a25c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f65ec19efbd3e189",
+    "type": "split",
+    "children": [
+      {
+        "id": "24e1e2f322509610",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b09e85218c1c865a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web Development/MongoDB/Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introduction"
+            }
+          },
+          {
+            "id": "e382542f21663583",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Web Development/MongoDB/Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introduction"
+            }
+          },
+          {
+            "id": "f037d361f61f4b05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9c22a1a72df3ad7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web Development/MongoDB/Introduction.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cc965ffc679b29c5",
+  "lastOpenFiles": [
+    "Remote Sensing/6. Synthetic Aperture Radar Systems.md",
+    "CE778/Creating Python Virtual Environment.md",
+    "Remote Sensing/5. Active Remote Sensing --.md",
+    "CE778",
+    "Remote Sensing/3. Laws of Radiation.md",
+    "Assets/Pasted image 20250408174350.png",
+    "Assets/Pasted image 20250407200057.png",
+    "Remote Sensing/4. Passive Remote Sensing -.md",
+    "Assets/Pasted image 20250407182656.png",
+    "Assets/Pasted image 20250407180447.png",
+    "Assets/Pasted image 20250407175310.png",
+    "Assets/Pasted image 20250407173418.png",
+    "Assets/Pasted image 20250407172803.png",
+    "Assets/Pasted image 20250407172747.png",
+    "Assets/Pasted image 20250407171153.png",
+    "Assets/Pasted image 20250407171133.png",
+    "Remote Sensing/2. Remote Sensing.md",
+    "Remote Sensing/Image Representation --.md",
+    "Remote Sensing/0. Problem Statement ---.md",
+    "Remote Sensing/1. Types of Scattering  & Absorption-.md",
+    "Assets",
+    "Web Development/MongoDB/Indexing.md",
+    "Remote Sensing",
+    "Web Development/MongoDB/Data Modelling.md",
+    "Web Development/MongoDB/Introduction.md",
+    "Chea App/Documentation --.md",
+    "Linux/ssh.md",
+    "Linux",
+    "Web Development/Node JS/Session Based Authentication.md",
+    "Web Development/MongoDB",
+    "Web Development/Node JS",
+    "Web Development",
+    "Untitled 1",
+    "Chea App",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Welcome.md"
+  ]
+}
